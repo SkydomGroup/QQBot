@@ -1,7 +1,7 @@
-name: MyPlugin
-main: com.example.demo.Main
-version: 1.0
-author: DreamVoid
-api-version: 1.16
+name: QQBot
+main: org.skydom.chosen.qqbot.Main
+version: 1.0-SNAPSHOT
+author: Chosen
+api-version: 1.19
 depend:
   - MiraiMC

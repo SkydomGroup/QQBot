@@ -1,4 +1,4 @@
-package com.example.demo;
+package org.skydom.chosen.qqbot;
 
 import me.dreamvoid.miraimc.api.MiraiBot;
 import me.dreamvoid.miraimc.bukkit.event.MiraiFriendMessageEvent;
